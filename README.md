@@ -1,4 +1,4 @@
-# Senior Research McDonoughN
+# Senior Research Catherine, Vinay, Nick
  
 Objective/Hypothesis: 
 In this research project, the objective is to compare the direct effects when considering the use of a VPN - specifically, to see how using a VPN while streaming popular series on Netflix will change the watching experience. Our goal is to provide evidence that the use of a VPN will first allow users to view geo-blocked content and secondly, they will then be able to access said content safely and securely. 
