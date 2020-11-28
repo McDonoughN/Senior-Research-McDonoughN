@@ -1,6 +1,6 @@
 # Senior Research Catherine, Vinay, Nick
 
-https://drive.google.com/drive/folders/1Q8wOiFEQWwMfE7tW3TFKjoPLq4ogKifL?usp=sharing -- captured packets
+https://drive.google.com/drive/folders/1Q8wOiFEQWwMfE7tW3TFKjoPLq4ogKifL  -- captured packets
 
  
 Objective/Hypothesis: 
